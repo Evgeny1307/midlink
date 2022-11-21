@@ -1,0 +1,16 @@
+{
+  "name": "koajs-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "evgenyl",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "koa": "^2.13.4",
+    "mime-types": "^2.1.35"
+  }
+}
